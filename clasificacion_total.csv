@@ -1,0 +1,645 @@
+Season,Position,Crest names,Team,City,Points,Matches,Won,Draw,Lost,Scored,Conceded,GoalDifference
+1987-88,1,Real Madrid,Real Madrid,Madrid,62,38,28,6,4,95,26,69
+1987-88,2,Real Sociedad,Real Sociedad,San Sebastian,51,38,22,7,9,61,33,28
+1987-88,3,Atlético de Madrid,Atlético Madrid,Madrid,48,38,19,10,9,60,38,22
+1987-88,4,Athletic Club,Athletic Bilbao,Bilbao,46,38,17,12,9,50,43,7
+1987-88,5,CA Osasuna,Osasuna,Pamplona,40,38,15,10,13,40,34,6
+1987-88,6,FC Barcelona,Barcelona,Barcelona,39,38,15,9,14,49,44,5
+1987-88,7,RC Celta,Celta Vigo,Vigo,39,38,14,11,13,43,40,3
+1987-88,8,R. Valladolid CF,Valladolid,Valladolid,38,38,13,12,13,31,34,-3
+1987-88,9,R. Sporting,Sporting Gijón,Gijón,38,38,14,10,14,44,49,-5
+1987-88,10,Sevilla FC,Sevilla,Sevilla,37,38,13,11,14,41,46,-5
+1987-88,11,R. Zaragoza,Zaragoza,Zaragoza,36,38,11,14,13,54,56,-2
+1987-88,12,Cádiz CF,Cádiz,Cádiz,35,38,11,13,14,47,54,-7
+1987-88,13,CD Logroñés,Logroñés,Logroño,33,38,12,9,17,28,45,-17
+1987-88,14,Valencia CF,Valencia,Valencia,33,38,10,13,15,44,53,-9
+1987-88,15,RCD Espanyol,Espanyol,Barcelona,33,38,11,11,16,44,55,-11
+1987-88,16,Real Betis,Real Betis,Seville,33,38,14,5,19,42,54,-12
+1987-88,17,Real Murcia,Murcia,Murcia,31,38,9,13,16,31,42,-11
+1987-88,18,RCD Mallorca,Mallorca,Palma,30,38,9,12,17,35,50,-15
+1987-88,19,CE Sabadell,Sabadell,Sabadell,29,38,9,11,18,27,48,-21
+1987-88,20,UD Las Palmas,Las Palmas,Las Palmas de Gran Canaria,29,38,12,5,21,43,65,-22
+1988-89,1,Real Madrid,Real Madrid,Madrid,62,38,25,12,1,91,37,54
+1988-89,2,FC Barcelona,Barcelona,Barcelona,57,38,23,11,4,80,26,54
+1988-89,3,Valencia CF,Valencia,Valencia,49,38,18,13,7,39,26,13
+1988-89,4,Atlético de Madrid,Atlético Madrid,Madrid,46,38,19,8,11,69,45,24
+1988-89,5,R. Zaragoza,Zaragoza,Zaragoza,43,38,15,13,10,48,42,6
+1988-89,6,R. Valladolid CF,Valladolid,Valladolid,43,38,18,7,13,40,31,9
+1988-89,7,Athletic Club,Athletic Bilbao,Bilbao,42,38,15,12,11,45,35,10
+1988-89,8,RC Celta,Celta Vigo,Vigo,39,38,14,11,13,42,48,-6
+1988-89,9,Sevilla FC,Sevilla,Sevilla,38,38,13,12,13,38,39,-1
+1988-89,10,CA Osasuna,Osasuna,Pamplona,37,38,13,11,14,39,43,-4
+1988-89,11,Real Sociedad,Real Sociedad,San Sebastian,36,38,11,14,13,38,47,-9
+1988-89,12,R. Oviedo,Oviedo,Oviedo,35,38,12,11,15,41,48,-7
+1988-89,13,R. Sporting,Sporting Gijón,Gijón,35,38,13,9,16,42,42,0
+1988-89,14,CD Logroñés,Logroñés,Logroño,34,38,9,16,13,25,37,-12
+1988-89,15,Cádiz CF,Cádiz,Cádiz,33,38,9,15,14,31,41,-10
+1988-89,16,CD Málaga,Málaga,Málaga,33,38,12,9,17,39,53,-14
+1988-89,17,RCD Espanyol,Espanyol,Barcelona,30,38,7,16,15,29,44,-15
+1988-89,18,Real Betis,Real Betis,Seville,29,38,9,11,18,36,55,-19
+1988-89,19,Real Murcia,Murcia,Murcia,24,38,9,6,23,27,58,-31
+1988-89,20,Elche CF,Elche,Alicante,15,38,4,7,27,29,71,-42
+1989-90,1,Real Madrid,Real Madrid,Madrid,62,38,26,10,2,107,38,69
+1989-90,2,Valencia CF,Valencia,Valencia,53,38,20,13,5,67,42,25
+1989-90,3,FC Barcelona,Barcelona,Barcelona,51,38,23,5,10,83,39,44
+1989-90,4,Atlético de Madrid,Atlético Madrid,Madrid,50,38,20,10,8,55,35,20
+1989-90,5,Real Sociedad,Real Sociedad,San Sebastian,44,38,15,14,9,43,35,8
+1989-90,6,Sevilla FC,Sevilla,Sevilla,43,38,18,7,13,64,46,18
+1989-90,7,CD Logroñés,Logroñés,Logroño,41,38,18,5,15,47,51,-4
+1989-90,8,CA Osasuna,Osasuna,Pamplona,40,38,14,12,12,42,42,0
+1989-90,9,R. Zaragoza,Zaragoza,Zaragoza,40,38,16,8,14,52,52,0
+1989-90,10,RCD Mallorca,Mallorca,Palma,39,38,11,17,10,36,34,2
+1989-90,11,R. Oviedo,Oviedo,Oviedo,39,38,12,15,11,41,46,-5
+1989-90,12,Athletic Club,Athletic Bilbao,Bilbao,37,38,11,15,12,37,39,-2
+1989-90,13,R. Sporting,Sporting Gijón,Gijón,34,38,12,10,16,37,34,3
+1989-90,14,CD Castellón,Castellón,Castellón de La Plana,32,38,9,14,15,30,48,-18
+1989-90,15,Cádiz CF,Cádiz,Cádiz,30,38,12,6,20,28,63,-35
+1989-90,16,R. Valladolid CF,Valladolid,Valladolid,30,38,8,14,16,31,41,-10
+1989-90,17,CD Málaga,Málaga,Málaga,28,38,9,10,19,23,50,-27
+1989-90,18,CD Tenerife,Tenerife,Tenerife,26,38,8,10,20,42,60,-18
+1989-90,19,RC Celta,Celta Vigo,Vigo,22,38,5,12,21,24,51,-27
+1989-90,20,Rayo Vallecano,Rayo Vallecano,Madrid,19,38,6,7,25,32,75,-43
+1990-91,1,FC Barcelona,Barcelona,Barcelona,57,38,25,7,6,74,33,41
+1990-91,2,Atlético de Madrid,Atlético Madrid,Madrid,47,38,17,13,8,52,28,24
+1990-91,3,Real Madrid,Real Madrid,Madrid,46,38,20,6,12,63,37,26
+1990-91,4,CA Osasuna,Osasuna,Pamplona,45,38,15,15,8,43,34,9
+1990-91,5,R. Sporting,Sporting Gijón,Gijón,44,38,16,12,10,50,37,13
+1990-91,6,R. Oviedo,Oviedo,Oviedo,42,38,13,16,9,36,35,1
+1990-91,7,Valencia CF,Valencia,Valencia,40,38,15,10,13,44,40,4
+1990-91,8,Sevilla FC,Sevilla,Sevilla,38,38,15,8,15,45,47,-2
+1990-91,9,R. Valladolid CF,Valladolid,Valladolid,37,38,12,13,13,38,40,-2
+1990-91,10,CD Logroñés,Logroñés,Logroño,37,38,13,11,14,28,35,-7
+1990-91,11,Real Burgos CF,Real Burgos,Burgos,37,38,10,17,11,32,27,5
+1990-91,12,Athletic Club,Athletic Bilbao,Bilbao,36,38,15,6,17,41,50,-9
+1990-91,13,Real Sociedad,Real Sociedad,San Sebastian,36,38,11,14,13,39,45,-6
+1990-91,14,CD Tenerife,Tenerife,Tenerife,35,38,14,7,17,37,53,-16
+1990-91,15,RCD Mallorca,Mallorca,Palma,34,38,9,16,13,32,40,-8
+1990-91,16,RCD Espanyol,Espanyol,Barcelona,34,38,12,10,16,39,47,-8
+1990-91,17,R. Zaragoza,Zaragoza,Zaragoza,33,38,11,11,16,36,40,-4
+1990-91,18,Cádiz CF,Cádiz,Cádiz,29,38,7,15,16,29,41,-12
+1990-91,19,CD Castellón,Castellón,Castellón de La Plana,28,38,8,12,18,27,48,-21
+1990-91,20,Real Betis,Real Betis,Seville,25,38,6,13,19,37,65,-28
+1991-92,1,FC Barcelona,Barcelona,Barcelona,55,38,23,9,6,87,37,50
+1991-92,2,Real Madrid,Real Madrid,Madrid,54,38,23,8,7,78,32,46
+1991-92,3,Atlético de Madrid,Atlético Madrid,Madrid,53,38,24,5,9,67,35,32
+1991-92,4,Valencia CF,Valencia,Valencia,47,38,20,7,11,63,42,21
+1991-92,5,Real Sociedad,Real Sociedad,San Sebastian,44,38,16,12,10,44,38,6
+1991-92,6,R. Zaragoza,Zaragoza,Zaragoza,41,38,17,7,14,40,41,-1
+1991-92,7,Albacete BP,Albacete,Albacete,40,38,16,8,14,45,47,-2
+1991-92,8,R. Sporting,Sporting Gijón,Gijón,38,38,15,8,15,37,43,-6
+1991-92,9,Real Burgos CF,Real Burgos,Burgos,37,38,12,13,13,40,43,-3
+1991-92,10,CD Logroñés,Logroñés,Logroño,36,38,13,10,15,36,51,-15
+1991-92,11,R. Oviedo,Oviedo,Oviedo,36,38,14,8,16,41,46,-5
+1991-92,12,Sevilla FC,Sevilla,Sevilla,34,38,13,8,17,48,45,3
+1991-92,13,CD Tenerife,Tenerife,Tenerife,34,38,12,10,16,46,50,-4
+1991-92,14,Athletic Club,Athletic Bilbao,Bilbao,33,38,13,7,18,38,58,-20
+1991-92,15,CA Osasuna,Osasuna,Pamplona,33,38,10,13,15,30,40,-10
+1991-92,16,RCD Espanyol,Espanyol,Barcelona,32,38,12,8,18,43,60,-17
+1991-92,17,RC Deportivo,Deportivo La Coruña,A Coruña,31,38,8,15,15,37,48,-11
+1991-92,18,Cádiz CF,Cádiz,Cádiz,28,38,7,14,17,32,55,-23
+1991-92,19,R. Valladolid CF,Valladolid,Valladolid,27,38,7,13,18,31,53,-22
+1991-92,20,RCD Mallorca,Mallorca,Palma,27,38,10,7,21,30,49,-19
+1992-93,1,FC Barcelona,Barcelona,Barcelona,58,38,25,8,5,87,34,53
+1992-93,2,Real Madrid,Real Madrid,Madrid,57,38,24,9,5,75,28,47
+1992-93,3,RC Deportivo,Deportivo La Coruña,A Coruña,54,38,22,10,6,67,33,34
+1992-93,4,Valencia CF,Valencia,Valencia,48,38,19,10,9,60,33,27
+1992-93,5,CD Tenerife,Tenerife,Tenerife,44,38,15,14,9,59,47,12
+1992-93,6,Atlético de Madrid,Atlético Madrid,Madrid,43,38,16,11,11,52,42,10
+1992-93,7,Sevilla FC,Sevilla,Sevilla,43,38,17,9,12,46,44,2
+1992-93,8,Athletic Club,Athletic Bilbao,Bilbao,40,38,17,6,15,53,49,4
+1992-93,9,R. Zaragoza,Zaragoza,Zaragoza,35,38,11,13,14,37,52,-15
+1992-93,10,CA Osasuna,Osasuna,Pamplona,34,38,12,10,16,42,41,1
+1992-93,11,RC Celta,Celta Vigo,Vigo,34,38,9,16,13,25,32,-7
+1992-93,12,Real Sociedad,Real Sociedad,San Sebastian,34,38,13,8,17,46,59,-13
+1992-93,13,R. Sporting,Sporting Gijón,Gijón,34,38,11,12,15,38,57,-19
+1992-93,14,Rayo Vallecano,Rayo Vallecano,Madrid,33,38,8,17,13,40,49,-9
+1992-93,15,CD Logroñés,Logroñés,Logroño,33,38,11,11,16,32,48,-16
+1992-93,16,R. Oviedo,Oviedo,Oviedo,32,38,11,10,17,42,52,-10
+1992-93,17,Albacete BP,Albacete,Albacete,31,38,11,9,18,54,59,-5
+1992-93,18,RCD Espanyol,Espanyol,Barcelona,29,38,9,11,18,40,56,-16
+1992-93,19,Cádiz CF,Cádiz,Cádiz,22,38,5,12,21,30,70,-40
+1992-93,20,Real Burgos CF,Real Burgos,Burgos,22,38,4,14,20,29,69,-40
+1993-94,1,FC Barcelona,Barcelona,Barcelona,56,38,25,6,7,91,42,49
+1993-94,2,RC Deportivo,Deportivo La Coruña,A Coruña,56,38,22,12,4,54,18,36
+1993-94,3,R. Zaragoza,Zaragoza,Zaragoza,46,38,19,8,11,71,47,24
+1993-94,4,Real Madrid,Real Madrid,Madrid,45,38,19,7,12,61,50,11
+1993-94,5,Athletic Club,Athletic Bilbao,Bilbao,43,38,16,11,11,61,47,14
+1993-94,6,Sevilla FC,Sevilla,Sevilla,42,38,15,12,11,56,42,14
+1993-94,7,Valencia CF,Valencia,Valencia,40,38,14,12,12,55,50,5
+1993-94,8,R. Racing C.,Racing Santander,Santander,38,38,15,8,15,44,42,2
+1993-94,9,R. Oviedo,Oviedo,Oviedo,37,38,12,13,13,43,49,-6
+1993-94,10,CD Tenerife,Tenerife,Tenerife,36,38,15,6,17,50,57,-7
+1993-94,11,Real Sociedad,Real Sociedad,San Sebastian,36,38,12,12,14,39,47,-8
+1993-94,12,Atlético de Madrid,Atlético Madrid,Madrid,35,38,13,9,16,54,54,0
+1993-94,13,Albacete BP,Albacete,Albacete,35,38,10,15,13,49,58,-9
+1993-94,14,R. Sporting,Sporting Gijón,Gijón,35,38,15,5,18,42,57,-15
+1993-94,15,RC Celta,Celta Vigo,Vigo,33,38,11,11,16,41,51,-10
+1993-94,16,CD Logroñés,Logroñés,Logroño,33,38,9,15,14,47,58,-11
+1993-94,17,Rayo Vallecano,Rayo Vallecano,Madrid,31,38,9,13,16,40,58,-18
+1993-94,18,R. Valladolid CF,Valladolid,Valladolid,30,38,8,14,16,28,51,-23
+1993-94,19,Lleida Esportiu,Lleida,Lleida,27,38,7,13,18,29,48,-19
+1993-94,20,CA Osasuna,Osasuna,Pamplona,26,38,8,10,20,34,63,-29
+1994-95,1,Real Madrid,Real Madrid,Madrid,55,38,23,9,6,76,29,47
+1994-95,2,RC Deportivo,Deportivo La Coruña,A Coruña,51,38,20,11,7,68,32,36
+1994-95,3,Real Betis,Real Betis,Seville,46,38,15,16,7,46,25,21
+1994-95,4,FC Barcelona,Barcelona,Barcelona,46,38,18,10,10,60,45,15
+1994-95,5,Sevilla FC,Sevilla,Sevilla,43,38,16,11,11,55,41,14
+1994-95,6,RCD Espanyol,Espanyol,Barcelona,43,38,14,15,9,51,35,16
+1994-95,7,R. Zaragoza,Zaragoza,Zaragoza,43,38,18,7,13,56,51,5
+1994-95,8,Athletic Club,Athletic Bilbao,Bilbao,42,38,16,10,12,39,42,-3
+1994-95,9,R. Oviedo,Oviedo,Oviedo,39,38,13,13,12,45,42,3
+1994-95,10,Valencia CF,Valencia,Valencia,38,38,13,12,13,53,48,5
+1994-95,11,Real Sociedad,Real Sociedad,San Sebastian,38,38,12,14,12,56,44,12
+1994-95,12,R. Racing C.,Racing Santander,Santander,36,38,13,10,15,42,47,-5
+1994-95,13,RC Celta,Celta Vigo,Vigo,36,38,11,14,13,36,48,-12
+1994-95,14,Atlético de Madrid,Atlético Madrid,Madrid,35,38,13,9,16,56,54,2
+1994-95,15,CD Tenerife,Tenerife,Tenerife,35,38,13,9,16,57,57,0
+1994-95,16,SD Compostela,Compostela,Santiago de Compostela,34,38,11,12,15,44,56,-12
+1994-95,17,Albacete BP,Albacete,Albacete,34,38,10,14,14,44,61,-17
+1994-95,18,R. Sporting,Sporting Gijón,Gijón,28,38,8,12,18,42,67,-25
+1994-95,19,R. Valladolid CF,Valladolid,Valladolid,25,38,8,9,21,25,63,-38
+1994-95,20,CD Logroñés,Logroñés,Logroño,13,38,2,9,27,15,79,-64
+1995-96,1,Atlético de Madrid,Atlético Madrid,Madrid,87,42,26,9,7,75,32,43
+1995-96,2,Valencia CF,Valencia,Valencia,83,42,26,5,11,77,51,26
+1995-96,3,FC Barcelona,Barcelona,Barcelona,80,42,22,14,6,72,39,33
+1995-96,4,RCD Espanyol,Espanyol,Barcelona,74,42,20,14,8,63,36,27
+1995-96,5,CD Tenerife,Tenerife,Tenerife,72,42,20,12,10,69,54,15
+1995-96,6,Real Madrid,Real Madrid,Madrid,70,42,20,10,12,75,51,24
+1995-96,7,Real Sociedad,Real Sociedad,San Sebastian,63,42,17,12,13,62,53,9
+1995-96,8,Real Betis,Real Betis,Seville,62,42,16,14,12,61,54,7
+1995-96,9,RC Deportivo,Deportivo La Coruña,A Coruña,61,42,16,13,13,63,44,19
+1995-96,10,SD Compostela,Compostela,Santiago de Compostela,59,42,17,8,17,47,54,-7
+1995-96,11,RC Celta,Celta Vigo,Vigo,52,42,12,16,14,49,51,-2
+1995-96,12,Sevilla FC,Sevilla,Sevilla,48,42,11,15,16,43,55,-12
+1995-96,13,R. Zaragoza,Zaragoza,Zaragoza,48,42,11,15,16,51,59,-8
+1995-96,14,R. Oviedo,Oviedo,Oviedo,48,42,12,12,18,48,67,-19
+1995-96,15,Athletic Club,Athletic Bilbao,Bilbao,48,42,11,15,16,44,55,-11
+1995-96,16,R. Valladolid CF,Valladolid,Valladolid,47,42,11,14,17,57,62,-5
+1995-96,17,R. Racing C.,Racing Santander,Santander,47,42,11,14,17,47,69,-22
+1995-96,18,R. Sporting,Sporting Gijón,Gijón,46,42,13,7,22,51,60,-9
+1995-96,19,Rayo Vallecano,Rayo Vallecano,Madrid,44,42,12,8,22,47,75,-28
+1995-96,20,Albacete BP,Albacete,Albacete,42,42,10,12,20,55,81,-26
+1995-96,21,Mérida CP,Mérida,Mérida,42,42,10,12,20,37,62,-25
+1995-96,22,Salamanca,Salamanca,Salamanca,33,42,8,9,25,53,82,-29
+1996-97,1,Real Madrid,Real Madrid,Madrid,92,42,27,11,4,85,36,49
+1996-97,2,FC Barcelona,Barcelona,Barcelona,90,42,28,6,8,102,48,54
+1996-97,3,RC Deportivo,Deportivo La Coruña,A Coruña,77,42,21,14,7,57,30,27
+1996-97,4,Real Betis,Real Betis,Seville,77,42,21,14,7,81,46,35
+1996-97,5,Atlético de Madrid,Atlético Madrid,Madrid,71,42,20,11,11,76,64,12
+1996-97,6,Athletic Club,Athletic Bilbao,Bilbao,64,42,16,16,10,72,57,15
+1996-97,7,R. Valladolid CF,Valladolid,Valladolid,64,42,18,10,14,57,46,11
+1996-97,8,Real Sociedad,Real Sociedad,San Sebastian,63,42,18,9,15,50,47,3
+1996-97,9,CD Tenerife,Tenerife,Tenerife,56,42,15,11,16,69,57,12
+1996-97,10,Valencia CF,Valencia,Valencia,56,42,15,11,16,63,59,4
+1996-97,11,SD Compostela,Compostela,Santiago de Compostela,53,42,13,14,15,52,65,-13
+1996-97,12,RCD Espanyol,Espanyol,Barcelona,51,42,14,9,19,51,57,-6
+1996-97,13,R. Racing C.,Racing Santander,Santander,50,42,11,17,14,52,54,-2
+1996-97,14,R. Zaragoza,Zaragoza,Zaragoza,50,42,12,14,16,58,66,-8
+1996-97,15,R. Sporting,Sporting Gijón,Gijón,50,42,13,11,18,45,63,-18
+1996-97,16,RC Celta,Celta Vigo,Vigo,49,42,12,13,17,51,54,-3
+1996-97,17,R. Oviedo,Oviedo,Oviedo,48,42,12,12,18,49,65,-16
+1996-97,18,Rayo Vallecano,Rayo Vallecano,Madrid,45,42,13,6,23,43,62,-19
+1996-97,19,CF Extremadura,Extremadura,Almendralejo,44,42,11,11,20,35,64,-29
+1996-97,20,Sevilla FC,Sevilla,Sevilla,43,42,12,7,23,50,69,-19
+1996-97,21,Hércules CF,Hércules,Alicante,41,42,12,5,25,40,77,-37
+1996-97,22,CD Logroñés,Logroñés,Logroño,33,42,9,6,27,33,85,-52
+1997-98,1,FC Barcelona,Barcelona,Barcelona,74,38,23,5,10,78,56,22
+1997-98,2,Athletic Club,Athletic Bilbao,Bilbao,65,38,17,14,7,52,42,10
+1997-98,3,Real Sociedad,Real Sociedad,San Sebastian,63,38,16,15,7,60,37,23
+1997-98,4,Real Madrid,Real Madrid,Madrid,63,38,17,12,9,63,45,18
+1997-98,5,RCD Mallorca,Mallorca,Palma,60,38,16,12,10,55,39,16
+1997-98,6,RC Celta,Celta Vigo,Vigo,60,38,17,9,12,54,47,7
+1997-98,7,Atlético de Madrid,Atlético Madrid,Madrid,60,38,16,12,10,79,56,23
+1997-98,8,Real Betis,Real Betis,Seville,59,38,17,8,13,49,50,-1
+1997-98,9,Valencia CF,Valencia,Valencia,55,38,16,7,15,58,52,6
+1997-98,10,RCD Espanyol,Espanyol,Barcelona,53,38,12,17,9,44,31,13
+1997-98,11,R. Valladolid CF,Valladolid,Valladolid,50,38,13,11,14,36,47,-11
+1997-98,12,RC Deportivo,Deportivo La Coruña,A Coruña,49,38,12,13,13,44,46,-2
+1997-98,13,R. Zaragoza,Zaragoza,Zaragoza,48,38,12,12,14,45,53,-8
+1997-98,14,R. Racing C.,Racing Santander,Santander,45,38,12,9,17,46,55,-9
+1997-98,15,Salamanca,Salamanca,Salamanca,45,38,12,9,17,46,46,0
+1997-98,16,CD Tenerife,Tenerife,Tenerife,45,38,11,12,15,44,57,-13
+1997-98,17,SD Compostela,Compostela,Santiago de Compostela,44,38,11,11,16,56,66,-10
+1997-98,18,R. Oviedo,Oviedo,Oviedo,40,38,9,13,16,36,51,-15
+1997-98,19,Mérida CP,Mérida,Mérida,39,38,9,12,17,33,53,-20
+1997-98,20,R. Sporting,Sporting Gijón,Gijón,13,38,2,7,29,31,80,-49
+1998-99,1,FC Barcelona,Barcelona,Barcelona,79,38,24,7,7,87,43,44
+1998-99,2,Real Madrid,Real Madrid,Madrid,68,38,21,5,12,77,62,15
+1998-99,3,RCD Mallorca,Mallorca,Palma,66,38,20,6,12,48,31,17
+1998-99,4,Valencia CF,Valencia,Valencia,65,38,19,8,11,63,39,24
+1998-99,5,RC Celta,Celta Vigo,Vigo,64,38,17,13,8,69,41,28
+1998-99,6,RC Deportivo,Deportivo La Coruña,A Coruña,63,38,17,12,9,55,43,12
+1998-99,7,RCD Espanyol,Espanyol,Barcelona,61,38,16,13,9,49,38,11
+1998-99,8,Athletic Club,Athletic Bilbao,Bilbao,60,38,17,9,12,53,47,6
+1998-99,9,R. Zaragoza,Zaragoza,Zaragoza,57,38,16,9,13,57,46,11
+1998-99,10,Real Sociedad,Real Sociedad,San Sebastian,54,38,14,12,12,47,43,4
+1998-99,11,Real Betis,Real Betis,Seville,49,38,14,7,17,47,58,-11
+1998-99,12,R. Valladolid CF,Valladolid,Valladolid,48,38,13,9,16,35,44,-9
+1998-99,13,Atlético de Madrid,Atlético Madrid,Madrid,46,38,12,10,16,54,50,4
+1998-99,14,R. Oviedo,Oviedo,Oviedo,45,38,11,12,15,41,57,-16
+1998-99,15,R. Racing C.,Racing Santander,Santander,42,38,10,12,16,41,53,-12
+1998-99,16,D. Alavés,Alavés,Vitoria-Gasteiz,40,38,11,7,20,36,63,-27
+1998-99,17,CF Extremadura,Extremadura,Almendralejo,39,38,9,12,17,27,53,-26
+1998-99,18,Villarreal CF,Villarreal,Vila-real,36,38,8,12,18,47,63,-16
+1998-99,19,CD Tenerife,Tenerife,Tenerife,34,38,7,13,18,41,63,-22
+1998-99,20,Salamanca,Salamanca,Salamanca,27,38,7,6,25,29,66,-37
+1999-00,1,RC Deportivo,Deportivo La Coruña,A Coruña,69,38,21,6,11,66,44,22
+1999-00,2,FC Barcelona,Barcelona,Barcelona,64,38,19,7,12,70,46,24
+1999-00,3,Valencia CF,Valencia,Valencia,64,38,18,10,10,59,39,20
+1999-00,4,R. Zaragoza,Zaragoza,Zaragoza,63,38,16,15,7,60,40,20
+1999-00,5,Real Madrid,Real Madrid,Madrid,62,38,16,14,8,58,48,10
+1999-00,6,D. Alavés,Alavés,Vitoria-Gasteiz,61,38,17,10,11,41,37,4
+1999-00,7,RC Celta,Celta Vigo,Vigo,53,38,15,8,15,45,43,2
+1999-00,8,R. Valladolid CF,Valladolid,Valladolid,53,38,14,11,13,36,44,-8
+1999-00,9,Rayo Vallecano,Rayo Vallecano,Madrid,52,38,15,7,16,51,53,-2
+1999-00,10,RCD Mallorca,Mallorca,Palma,51,38,14,9,15,52,45,7
+1999-00,11,Athletic Club,Athletic Bilbao,Bilbao,50,38,12,14,12,47,57,-10
+1999-00,12,Málaga CF,Málaga,Málaga,48,38,11,15,12,55,50,5
+1999-00,13,Real Sociedad,Real Sociedad,San Sebastian,47,38,11,14,13,42,49,-7
+1999-00,14,RCD Espanyol,Espanyol,Barcelona,47,38,12,11,15,51,48,3
+1999-00,15,R. Racing C.,Racing Santander,Santander,46,38,10,16,12,52,50,2
+1999-00,16,R. Oviedo,Oviedo,Oviedo,45,38,11,12,15,44,60,-16
+1999-00,17,CD Numancia,Numancia,Soria,45,38,11,12,15,47,59,-12
+1999-00,18,Real Betis,Real Betis,Seville,42,38,11,9,18,33,56,-23
+1999-00,19,Atlético de Madrid,Atlético Madrid,Madrid,38,38,9,11,18,48,64,-16
+1999-00,20,Sevilla FC,Sevilla,Sevilla,28,38,5,13,20,42,67,-25
+2000-01,1,Real Madrid,Real Madrid,Madrid,80,38,24,8,6,81,40,41
+2000-01,2,RC Deportivo,Deportivo La Coruña,A Coruña,73,38,22,7,9,73,44,29
+2000-01,3,RCD Mallorca,Mallorca,Palma,71,38,20,11,7,61,43,18
+2000-01,4,FC Barcelona,Barcelona,Barcelona,63,38,17,12,9,80,57,23
+2000-01,5,Valencia CF,Valencia,Valencia,63,38,18,9,11,55,34,21
+2000-01,6,RC Celta,Celta Vigo,Vigo,59,38,16,11,11,51,49,2
+2000-01,7,Villarreal CF,Villarreal,Vila-real,57,38,16,9,13,58,52,6
+2000-01,8,Málaga CF,Málaga,Málaga,56,38,16,8,14,60,61,-1
+2000-01,9,RCD Espanyol,Espanyol,Barcelona,50,38,14,8,16,46,44,2
+2000-01,10,D. Alavés,Alavés,Vitoria-Gasteiz,49,38,14,7,17,58,59,-1
+2000-01,11,UD Las Palmas,Las Palmas,Las Palmas de Gran Canaria,46,38,13,7,18,42,62,-20
+2000-01,12,Athletic Club,Athletic Bilbao,Bilbao,43,38,11,10,17,44,60,-16
+2000-01,13,Real Sociedad,Real Sociedad,San Sebastian,43,38,11,10,17,52,68,-16
+2000-01,14,Rayo Vallecano,Rayo Vallecano,Madrid,43,38,10,13,15,56,68,-12
+2000-01,15,CA Osasuna,Osasuna,Pamplona,42,38,10,12,16,43,54,-11
+2000-01,16,R. Valladolid CF,Valladolid,Valladolid,42,38,9,15,14,42,50,-8
+2000-01,17,R. Zaragoza,Zaragoza,Zaragoza,42,38,9,15,14,54,57,-3
+2000-01,18,R. Oviedo,Oviedo,Oviedo,41,38,11,8,19,51,67,-16
+2000-01,19,R. Racing C.,Racing Santander,Santander,39,38,10,9,19,48,62,-14
+2000-01,20,CD Numancia,Numancia,Soria,39,38,10,9,19,40,64,-24
+2001-02,1,Valencia CF,Valencia,Valencia,75,38,21,12,5,51,27,24
+2001-02,2,RC Deportivo,Deportivo La Coruña,A Coruña,68,38,20,8,10,65,41,24
+2001-02,3,Real Madrid,Real Madrid,Madrid,66,38,19,9,10,69,44,25
+2001-02,4,FC Barcelona,Barcelona,Barcelona,64,38,18,10,10,65,37,28
+2001-02,5,RC Celta,Celta Vigo,Vigo,60,38,16,12,10,64,46,18
+2001-02,6,Real Betis,Real Betis,Seville,59,38,15,14,9,42,34,8
+2001-02,7,D. Alavés,Alavés,Vitoria-Gasteiz,54,38,17,3,18,41,44,-3
+2001-02,8,Sevilla FC,Sevilla,Sevilla,53,38,14,11,13,51,40,11
+2001-02,9,Athletic Club,Athletic Bilbao,Bilbao,53,38,14,11,13,54,66,-12
+2001-02,10,Málaga CF,Málaga,Málaga,53,38,13,14,11,44,44,0
+2001-02,11,Rayo Vallecano,Rayo Vallecano,Madrid,49,38,13,10,15,46,52,-6
+2001-02,12,R. Valladolid CF,Valladolid,Valladolid,48,38,13,9,16,45,58,-13
+2001-02,13,Real Sociedad,Real Sociedad,San Sebastian,47,38,13,8,17,48,54,-6
+2001-02,14,RCD Espanyol,Espanyol,Barcelona,47,38,13,8,17,47,56,-9
+2001-02,15,Villarreal CF,Villarreal,Vila-real,43,38,11,10,17,46,55,-9
+2001-02,16,RCD Mallorca,Mallorca,Palma,43,38,11,10,17,40,52,-12
+2001-02,17,CA Osasuna,Osasuna,Pamplona,42,38,10,12,16,36,49,-13
+2001-02,18,UD Las Palmas,Las Palmas,Las Palmas de Gran Canaria,40,38,9,13,16,40,50,-10
+2001-02,19,CD Tenerife,Tenerife,Tenerife,38,38,10,8,20,32,58,-26
+2001-02,20,R. Zaragoza,Zaragoza,Zaragoza,37,38,9,10,19,35,54,-19
+2002-03,1,Real Madrid,Real Madrid,Madrid,78,38,22,12,4,86,42,44
+2002-03,2,Real Sociedad,Real Sociedad,San Sebastian,76,38,22,10,6,71,45,26
+2002-03,3,RC Deportivo,Deportivo La Coruña,A Coruña,72,38,22,6,10,67,47,20
+2002-03,4,RC Celta,Celta Vigo,Vigo,61,38,17,10,11,45,36,9
+2002-03,5,Valencia CF,Valencia,Valencia,60,38,17,9,12,56,35,21
+2002-03,6,FC Barcelona,Barcelona,Barcelona,56,38,15,11,12,63,47,16
+2002-03,7,Athletic Club,Athletic Bilbao,Bilbao,55,38,15,10,13,63,61,2
+2002-03,8,Real Betis,Real Betis,Seville,54,38,14,12,12,56,53,3
+2002-03,9,RCD Mallorca,Mallorca,Palma,52,38,14,10,14,49,56,-7
+2002-03,10,Sevilla FC,Sevilla,Sevilla,50,38,13,11,14,38,39,-1
+2002-03,11,CA Osasuna,Osasuna,Pamplona,47,38,12,11,15,40,48,-8
+2002-03,12,Atlético de Madrid,Atlético Madrid,Madrid,47,38,12,11,15,51,56,-5
+2002-03,13,Málaga CF,Málaga,Málaga,46,38,11,13,14,44,49,-5
+2002-03,14,R. Valladolid CF,Valladolid,Valladolid,46,38,12,10,16,37,40,-3
+2002-03,15,Villarreal CF,Villarreal,Vila-real,45,38,11,12,15,44,53,-9
+2002-03,16,R. Racing C.,Racing Santander,Santander,44,38,13,5,20,54,64,-10
+2002-03,17,RCD Espanyol,Espanyol,Barcelona,43,38,10,13,15,48,54,-6
+2002-03,18,RC Recreativo,Recreativo,Huelva,36,38,8,12,18,35,61,-26
+2002-03,19,D. Alavés,Alavés,Vitoria-Gasteiz,35,38,8,11,19,38,68,-30
+2002-03,20,Rayo Vallecano,Rayo Vallecano,Madrid,32,38,7,11,20,31,62,-31
+2003-04,1,Valencia CF,Valencia,Valencia,77,38,23,8,7,71,27,44
+2003-04,2,FC Barcelona,Barcelona,Barcelona,72,38,21,9,8,63,39,24
+2003-04,3,RC Deportivo,Deportivo La Coruña,A Coruña,71,38,21,8,9,60,34,26
+2003-04,4,Real Madrid,Real Madrid,Madrid,70,38,21,7,10,72,54,18
+2003-04,5,Athletic Club,Athletic Bilbao,Bilbao,56,38,15,11,12,53,49,4
+2003-04,6,Sevilla FC,Sevilla,Sevilla,55,38,15,10,13,56,45,11
+2003-04,7,Atlético de Madrid,Atlético Madrid,Madrid,55,38,15,10,13,51,53,-2
+2003-04,8,Villarreal CF,Villarreal,Vila-real,54,38,15,9,14,47,49,-2
+2003-04,9,Real Betis,Real Betis,Seville,52,38,13,13,12,46,43,3
+2003-04,10,Málaga CF,Málaga,Málaga,51,38,15,6,17,50,55,-5
+2003-04,11,RCD Mallorca,Mallorca,Palma,51,38,15,6,17,54,66,-12
+2003-04,12,R. Zaragoza,Zaragoza,Zaragoza,48,38,13,9,16,46,55,-9
+2003-04,13,CA Osasuna,Osasuna,Pamplona,48,38,11,15,12,38,37,1
+2003-04,14,Albacete BP,Albacete,Albacete,47,38,13,8,17,40,48,-8
+2003-04,15,Real Sociedad,Real Sociedad,San Sebastian,46,38,11,13,14,49,53,-4
+2003-04,16,R. Racing C.,Racing Santander,Santander,43,38,11,10,17,48,63,-15
+2003-04,17,RCD Espanyol,Espanyol,Barcelona,43,38,13,4,21,48,64,-16
+2003-04,18,R. Valladolid CF,Valladolid,Valladolid,41,38,10,11,17,46,56,-10
+2003-04,19,RC Celta,Celta Vigo,Vigo,39,38,9,12,17,48,68,-20
+2003-04,20,Real Murcia,Murcia,Murcia,26,38,5,11,22,29,57,-28
+2004-05,1,FC Barcelona,Barcelona,Barcelona,84,38,25,9,4,73,29,44
+2004-05,2,Real Madrid,Real Madrid,Madrid,80,38,25,5,8,71,32,39
+2004-05,3,Villarreal CF,Villarreal,Vila-real,65,38,18,11,9,69,37,32
+2004-05,4,Real Betis,Real Betis,Seville,62,38,16,14,8,62,50,12
+2004-05,5,RCD Espanyol,Espanyol,Barcelona,61,38,17,10,11,54,46,8
+2004-05,6,Sevilla FC,Sevilla,Sevilla,60,38,17,9,12,44,41,3
+2004-05,7,Valencia CF,Valencia,Valencia,58,38,14,16,8,54,39,15
+2004-05,8,RC Deportivo,Deportivo La Coruña,A Coruña,51,38,12,15,11,46,50,-4
+2004-05,9,Athletic Club,Athletic Bilbao,Bilbao,51,38,14,9,15,59,54,5
+2004-05,10,Málaga CF,Málaga,Málaga,51,38,15,6,17,40,48,-8
+2004-05,11,Atlético de Madrid,Atlético Madrid,Madrid,50,38,13,11,14,40,34,6
+2004-05,12,R. Zaragoza,Zaragoza,Zaragoza,50,38,14,8,16,52,57,-5
+2004-05,13,Getafe CF,Getafe,Getafe,47,38,12,11,15,38,46,-8
+2004-05,14,Real Sociedad,Real Sociedad,San Sebastian,47,38,13,8,17,47,56,-9
+2004-05,15,CA Osasuna,Osasuna,Pamplona,46,38,12,10,16,46,65,-19
+2004-05,16,R. Racing C.,Racing Santander,Santander,44,38,12,8,18,41,58,-17
+2004-05,17,RCD Mallorca,Mallorca,Palma,39,38,10,9,19,42,63,-21
+2004-05,18,Levante UD,Levante,Valencia,37,38,9,10,19,39,58,-19
+2004-05,19,CD Numancia,Numancia,Soria,29,38,6,11,21,30,61,-31
+2004-05,20,Albacete BP,Albacete,Albacete,28,38,6,10,22,33,56,-23
+2005-06,1,FC Barcelona,Barcelona,Barcelona,82,38,25,7,6,80,35,45
+2005-06,2,Real Madrid,Real Madrid,Madrid,70,38,20,10,8,70,40,30
+2005-06,3,Valencia CF,Valencia,Valencia,69,38,19,12,7,58,33,25
+2005-06,4,CA Osasuna,Osasuna,Pamplona,68,38,21,5,12,49,43,6
+2005-06,5,Sevilla FC,Sevilla,Sevilla,68,38,20,8,10,54,39,15
+2005-06,6,RC Celta,Celta Vigo,Vigo,64,38,20,4,14,45,33,12
+2005-06,7,Villarreal CF,Villarreal,Vila-real,57,38,14,15,9,50,39,11
+2005-06,8,RC Deportivo,Deportivo La Coruña,A Coruña,55,38,15,10,13,47,45,2
+2005-06,9,Getafe CF,Getafe,Getafe,54,38,15,9,14,54,49,5
+2005-06,10,Atlético de Madrid,Atlético Madrid,Madrid,52,38,13,13,12,45,37,8
+2005-06,11,R. Zaragoza,Zaragoza,Zaragoza,46,38,10,16,12,46,51,-5
+2005-06,12,Athletic Club,Athletic Bilbao,Bilbao,45,38,11,12,15,40,46,-6
+2005-06,13,RCD Mallorca,Mallorca,Palma,43,38,10,13,15,37,51,-14
+2005-06,14,Real Betis,Real Betis,Seville,42,38,10,12,16,34,51,-17
+2005-06,15,RCD Espanyol,Espanyol,Barcelona,41,38,10,11,17,36,56,-20
+2005-06,16,Real Sociedad,Real Sociedad,San Sebastian,40,38,11,7,20,48,65,-17
+2005-06,17,R. Racing C.,Racing Santander,Santander,40,38,9,13,16,36,49,-13
+2005-06,18,D. Alavés,Alavés,Vitoria-Gasteiz,39,38,9,12,17,35,54,-19
+2005-06,19,Cádiz CF,Cádiz,Cádiz,36,38,8,12,18,36,52,-16
+2005-06,20,Málaga CF,Málaga,Málaga,24,38,5,9,24,36,68,-32
+2006-07,1,Real Madrid,Real Madrid,Madrid,76,38,23,7,8,66,40,26
+2006-07,2,FC Barcelona,Barcelona,Barcelona,76,38,22,10,6,78,33,45
+2006-07,3,Sevilla FC,Sevilla,Sevilla,71,38,21,8,9,64,35,29
+2006-07,4,Valencia CF,Valencia,Valencia,66,38,20,6,12,57,42,15
+2006-07,5,Villarreal CF,Villarreal,Vila-real,62,38,18,8,12,48,44,4
+2006-07,6,R. Zaragoza,Zaragoza,Zaragoza,60,38,16,12,10,55,43,12
+2006-07,7,Atlético de Madrid,Atlético Madrid,Madrid,60,38,17,9,12,46,39,7
+2006-07,8,RC Recreativo,Recreativo,Huelva,54,38,15,9,14,54,52,2
+2006-07,9,Getafe CF,Getafe,Getafe,52,38,14,10,14,39,33,6
+2006-07,10,R. Racing C.,Racing Santander,Santander,50,38,12,14,12,42,48,-6
+2006-07,11,RCD Espanyol,Espanyol,Barcelona,49,38,12,13,13,46,53,-7
+2006-07,12,RCD Mallorca,Mallorca,Palma,49,38,14,7,17,41,47,-6
+2006-07,13,RC Deportivo,Deportivo La Coruña,A Coruña,47,38,12,11,15,32,45,-13
+2006-07,14,CA Osasuna,Osasuna,Pamplona,46,38,13,7,18,51,49,2
+2006-07,15,Levante UD,Levante,Valencia,42,38,10,12,16,37,53,-16
+2006-07,16,Real Betis,Real Betis,Seville,40,38,8,16,14,36,49,-13
+2006-07,17,Athletic Club,Athletic Bilbao,Bilbao,40,38,10,10,18,44,62,-18
+2006-07,18,RC Celta,Celta Vigo,Vigo,39,38,10,9,19,40,59,-19
+2006-07,19,Real Sociedad,Real Sociedad,San Sebastian,35,38,8,11,19,32,47,-15
+2006-07,20,Nàstic,Gimnàstic,Tarragona,28,38,7,7,24,34,69,-35
+2007-08,1,Real Madrid,Real Madrid,Madrid,85,38,27,4,7,84,36,48
+2007-08,2,Villarreal CF,Villarreal,Vila-real,77,38,24,5,9,63,40,23
+2007-08,3,FC Barcelona,Barcelona,Barcelona,67,38,19,10,9,76,43,33
+2007-08,4,Atlético de Madrid,Atlético Madrid,Madrid,64,38,19,7,12,66,47,19
+2007-08,5,Sevilla FC,Sevilla,Sevilla,64,38,20,4,14,75,49,26
+2007-08,6,R. Racing C.,Racing Santander,Santander,60,38,17,9,12,42,41,1
+2007-08,7,RCD Mallorca,Mallorca,Palma,59,38,15,14,9,69,54,15
+2007-08,8,UD Almería,Almería,Almería,52,38,14,10,14,42,45,-3
+2007-08,9,RC Deportivo,Deportivo La Coruña,A Coruña,52,38,15,7,16,46,47,-1
+2007-08,10,Valencia CF,Valencia,Valencia,51,38,15,6,17,48,62,-14
+2007-08,11,Athletic Club,Athletic Bilbao,Bilbao,50,38,13,11,14,40,43,-3
+2007-08,12,RCD Espanyol,Espanyol,Barcelona,48,38,13,9,16,43,53,-10
+2007-08,13,Real Betis,Real Betis,Seville,47,38,12,11,15,45,51,-6
+2007-08,14,Getafe CF,Getafe,Getafe,47,38,12,11,15,44,48,-4
+2007-08,15,R. Valladolid CF,Valladolid,Valladolid,45,38,11,12,15,42,57,-15
+2007-08,16,RC Recreativo,Recreativo,Huelva,44,38,11,11,16,40,60,-20
+2007-08,17,CA Osasuna,Osasuna,Pamplona,43,38,12,7,19,37,44,-7
+2007-08,18,R. Zaragoza,Zaragoza,Zaragoza,42,38,10,12,16,50,61,-11
+2007-08,19,Real Murcia,Murcia,Murcia,30,38,7,9,22,36,65,-29
+2007-08,20,Levante UD,Levante,Valencia,26,38,7,5,26,33,75,-42
+2008-09,1,FC Barcelona,Barcelona,Barcelona,87,38,27,6,5,105,35,70
+2008-09,2,Real Madrid,Real Madrid,Madrid,78,38,25,3,10,83,52,31
+2008-09,3,Sevilla FC,Sevilla,Sevilla,70,38,21,7,10,54,39,15
+2008-09,4,Atlético de Madrid,Atlético Madrid,Madrid,67,38,20,7,11,80,57,23
+2008-09,5,Villarreal CF,Villarreal,Vila-real,65,38,18,11,9,61,54,7
+2008-09,6,Valencia CF,Valencia,Valencia,62,38,18,8,12,68,54,14
+2008-09,7,RC Deportivo,Deportivo La Coruña,A Coruña,58,38,16,10,12,48,47,1
+2008-09,8,Málaga CF,Málaga,Málaga,55,38,15,10,13,55,59,-4
+2008-09,9,RCD Mallorca,Mallorca,Palma,51,38,14,9,15,53,60,-7
+2008-09,10,RCD Espanyol,Espanyol,Barcelona,47,38,12,11,15,46,49,-3
+2008-09,11,UD Almería,Almería,Almería,46,38,13,7,18,45,61,-16
+2008-09,12,R. Racing C.,Racing Santander,Santander,46,38,12,10,16,49,48,1
+2008-09,13,Athletic Club,Athletic Bilbao,Bilbao,44,38,12,8,18,47,62,-15
+2008-09,14,R. Sporting,Sporting Gijón,Gijón,43,38,14,1,23,47,79,-32
+2008-09,15,CA Osasuna,Osasuna,Pamplona,43,38,10,13,15,41,47,-6
+2008-09,16,R. Valladolid CF,Valladolid,Valladolid,43,38,12,7,19,46,58,-12
+2008-09,17,Getafe CF,Getafe,Getafe,42,38,10,12,16,50,56,-6
+2008-09,18,Real Betis,Real Betis,Seville,42,38,10,12,16,51,58,-7
+2008-09,19,CD Numancia,Numancia,Soria,35,38,10,5,23,38,69,-31
+2008-09,20,RC Recreativo,Recreativo,Huelva,33,38,8,9,21,34,57,-23
+2009-10,1,FC Barcelona,Barcelona,Barcelona,99,38,31,6,1,98,24,74
+2009-10,2,Real Madrid,Real Madrid,Madrid,96,38,31,3,4,102,35,67
+2009-10,3,Valencia CF,Valencia,Valencia,71,38,21,8,9,59,40,19
+2009-10,4,Sevilla FC,Sevilla,Sevilla,63,38,19,6,13,65,49,16
+2009-10,5,RCD Mallorca,Mallorca,Palma,62,38,18,8,12,59,44,15
+2009-10,6,Getafe CF,Getafe,Getafe,58,38,17,7,14,58,48,10
+2009-10,7,Villarreal CF,Villarreal,Vila-real,56,38,16,8,14,58,57,1
+2009-10,8,Athletic Club,Athletic Bilbao,Bilbao,54,38,15,9,14,50,53,-3
+2009-10,9,Atlético de Madrid,Atlético Madrid,Madrid,47,38,13,8,17,57,61,-4
+2009-10,10,RC Deportivo,Deportivo La Coruña,A Coruña,47,38,13,8,17,35,49,-14
+2009-10,11,RCD Espanyol,Espanyol,Barcelona,44,38,11,11,16,29,46,-17
+2009-10,12,CA Osasuna,Osasuna,Pamplona,43,38,11,10,17,37,46,-9
+2009-10,13,UD Almería,Almería,Almería,42,38,10,12,16,43,55,-12
+2009-10,14,R. Zaragoza,Zaragoza,Zaragoza,41,38,10,11,17,46,64,-18
+2009-10,15,R. Sporting,Sporting Gijón,Gijón,40,38,9,13,16,36,51,-15
+2009-10,16,R. Racing C.,Racing Santander,Santander,39,38,9,12,17,42,59,-17
+2009-10,17,Málaga CF,Málaga,Málaga,37,38,7,16,15,42,48,-6
+2009-10,18,R. Valladolid CF,Valladolid,Valladolid,36,38,7,15,16,37,62,-25
+2009-10,19,CD Tenerife,Tenerife,Tenerife,36,38,9,9,20,40,74,-34
+2009-10,20,Xerez CD,Xerez,Jerez de la Frontera,34,38,8,10,20,38,66,-28
+2010-11,1,FC Barcelona,Barcelona,Barcelona,96,38,30,6,2,95,21,74
+2010-11,2,Real Madrid,Real Madrid,Madrid,92,38,29,5,4,102,33,69
+2010-11,3,Valencia CF,Valencia,Valencia,71,38,21,8,9,64,44,20
+2010-11,4,Villarreal CF,Villarreal,Vila-real,62,38,18,8,12,54,44,10
+2010-11,5,Sevilla FC,Sevilla,Sevilla,58,38,17,7,14,62,61,1
+2010-11,6,Athletic Club,Athletic Bilbao,Bilbao,58,38,18,4,16,59,55,4
+2010-11,7,Atlético de Madrid,Atlético Madrid,Madrid,58,38,17,7,14,62,53,9
+2010-11,8,RCD Espanyol,Espanyol,Barcelona,49,38,15,4,19,46,55,-9
+2010-11,9,CA Osasuna,Osasuna,Pamplona,47,38,13,8,17,45,46,-1
+2010-11,10,R. Sporting,Sporting Gijón,Gijón,47,38,11,14,13,35,42,-7
+2010-11,11,Málaga CF,Málaga,Málaga,46,38,13,7,18,54,68,-14
+2010-11,12,R. Racing C.,Racing Santander,Santander,46,38,12,10,16,41,56,-15
+2010-11,13,R. Zaragoza,Zaragoza,Zaragoza,45,38,12,9,17,40,53,-13
+2010-11,14,Levante UD,Levante,Valencia,45,38,12,9,17,41,52,-11
+2010-11,15,Real Sociedad,Real Sociedad,San Sebastian,45,38,14,3,21,49,66,-17
+2010-11,16,Getafe CF,Getafe,Getafe,44,38,12,8,18,49,60,-11
+2010-11,17,RCD Mallorca,Mallorca,Palma,44,38,12,8,18,41,56,-15
+2010-11,18,RC Deportivo,Deportivo La Coruña,A Coruña,43,38,10,13,15,31,47,-16
+2010-11,19,Hércules CF,Hércules,Alicante,35,38,9,8,21,36,60,-24
+2010-11,20,UD Almería,Almería,Almería,30,38,6,12,20,36,70,-34
+2011-12,1,Real Madrid,Real Madrid,Madrid,100,38,32,4,2,121,32,89
+2011-12,2,FC Barcelona,Barcelona,Barcelona,91,38,28,7,3,114,29,85
+2011-12,3,Valencia CF,Valencia,Valencia,61,38,17,10,11,59,44,15
+2011-12,4,Málaga CF,Málaga,Málaga,58,38,17,7,14,54,53,1
+2011-12,5,Atlético de Madrid,Atlético Madrid,Madrid,56,38,15,11,12,53,46,7
+2011-12,6,Levante UD,Levante,Valencia,55,38,16,7,15,54,50,4
+2011-12,7,CA Osasuna,Osasuna,Pamplona,54,38,13,15,10,44,61,-17
+2011-12,8,RCD Mallorca,Mallorca,Palma,52,38,14,10,14,42,46,-4
+2011-12,9,Sevilla FC,Sevilla,Sevilla,50,38,13,11,14,48,47,1
+2011-12,10,Athletic Club,Athletic Bilbao,Bilbao,49,38,12,13,13,49,52,-3
+2011-12,11,Getafe CF,Getafe,Getafe,47,38,12,11,15,40,51,-11
+2011-12,12,Real Sociedad,Real Sociedad,San Sebastian,47,38,12,11,15,46,52,-6
+2011-12,13,Real Betis,Real Betis,Seville,47,38,13,8,17,47,56,-9
+2011-12,14,RCD Espanyol,Espanyol,Barcelona,46,38,12,10,16,46,56,-10
+2011-12,15,Rayo Vallecano,Rayo Vallecano,Madrid,43,38,13,4,21,53,73,-20
+2011-12,16,R. Zaragoza,Zaragoza,Zaragoza,43,38,12,7,19,36,61,-25
+2011-12,17,Granada CF,Granada,Granada,42,38,12,6,20,35,56,-21
+2011-12,18,Villarreal CF,Villarreal,Vila-real,41,38,9,14,15,39,53,-14
+2011-12,19,R. Sporting,Sporting Gijón,Gijón,37,38,10,7,21,42,69,-27
+2011-12,20,R. Racing C.,Racing Santander,Santander,27,38,4,15,19,28,63,-35
+2012-13,1,FC Barcelona,Barcelona,Barcelona,100,38,32,4,2,115,40,75
+2012-13,2,Real Madrid,Real Madrid,Madrid,85,38,26,7,5,103,42,61
+2012-13,3,Atlético de Madrid,Atlético Madrid,Madrid,76,38,23,7,8,65,31,34
+2012-13,4,Real Sociedad,Real Sociedad,San Sebastian,66,38,18,12,8,70,49,21
+2012-13,5,Valencia CF,Valencia,Valencia,65,38,19,8,11,67,54,13
+2012-13,6,Málaga CF,Málaga,Málaga,57,38,16,9,13,53,50,3
+2012-13,7,Real Betis,Real Betis,Seville,56,38,16,8,14,57,56,1
+2012-13,8,Rayo Vallecano,Rayo Vallecano,Madrid,53,38,16,5,17,50,66,-16
+2012-13,9,Sevilla FC,Sevilla,Sevilla,50,38,14,8,16,58,54,4
+2012-13,10,Getafe CF,Getafe,Getafe,47,38,13,8,17,43,57,-14
+2012-13,11,Levante UD,Levante,Valencia,46,38,12,10,16,40,57,-17
+2012-13,12,Athletic Club,Athletic Bilbao,Bilbao,45,38,12,9,17,44,65,-21
+2012-13,13,RCD Espanyol,Espanyol,Barcelona,44,38,11,11,16,43,52,-9
+2012-13,14,R. Valladolid CF,Valladolid,Valladolid,43,38,11,10,17,49,58,-9
+2012-13,15,Granada CF,Granada,Granada,42,38,11,9,18,37,54,-17
+2012-13,16,CA Osasuna,Osasuna,Pamplona,39,38,10,9,19,33,50,-17
+2012-13,17,RC Celta,Celta Vigo,Vigo,37,38,10,7,21,37,52,-15
+2012-13,18,RCD Mallorca,Mallorca,Palma,36,38,9,9,20,43,72,-29
+2012-13,19,RC Deportivo,Deportivo La Coruña,A Coruña,35,38,8,11,19,47,70,-23
+2012-13,20,R. Zaragoza,Zaragoza,Zaragoza,34,38,9,7,22,37,62,-25
+2013-14,1,Atlético de Madrid,Atlético Madrid,Madrid,90,38,28,6,4,77,26,51
+2013-14,2,FC Barcelona,Barcelona,Barcelona,87,38,27,6,5,100,33,67
+2013-14,3,Real Madrid,Real Madrid,Madrid,87,38,27,6,5,104,38,66
+2013-14,4,Athletic Club,Athletic Bilbao,Bilbao,70,38,20,10,8,66,39,27
+2013-14,5,Sevilla FC,Sevilla,Sevilla,63,38,18,9,11,69,52,17
+2013-14,6,Villarreal CF,Villarreal,Vila-real,59,38,17,8,13,60,44,16
+2013-14,7,Real Sociedad,Real Sociedad,San Sebastian,59,38,16,11,11,62,55,7
+2013-14,8,Valencia CF,Valencia,Valencia,49,38,13,10,15,51,53,-2
+2013-14,9,RC Celta,Celta Vigo,Vigo,49,38,14,7,17,49,54,-5
+2013-14,10,Levante UD,Levante,Valencia,48,38,12,12,14,35,43,-8
+2013-14,11,Málaga CF,Málaga,Málaga,45,38,12,9,17,39,46,-7
+2013-14,12,Rayo Vallecano,Rayo Vallecano,Madrid,43,38,13,4,21,46,80,-34
+2013-14,13,Getafe CF,Getafe,Getafe,42,38,11,9,18,35,54,-19
+2013-14,14,RCD Espanyol,Espanyol,Barcelona,42,38,11,9,18,41,51,-10
+2013-14,15,Granada CF,Granada,Granada,41,38,12,5,21,32,56,-24
+2013-14,16,Elche CF,Elche,Alicante,40,38,9,13,16,30,50,-20
+2013-14,17,UD Almería,Almería,Almería,40,38,11,7,20,43,71,-28
+2013-14,18,CA Osasuna,Osasuna,Pamplona,39,38,10,9,19,32,62,-30
+2013-14,19,R. Valladolid CF,Valladolid,Valladolid,36,38,7,15,16,38,60,-22
+2013-14,20,Real Betis,Real Betis,Seville,25,38,6,7,25,36,78,-42
+2014-15,1,FC Barcelona,Barcelona,Barcelona,94,38,30,4,4,110,21,89
+2014-15,2,Real Madrid,Real Madrid,Madrid,92,38,30,2,6,118,38,80
+2014-15,3,Atlético de Madrid,Atlético Madrid,Madrid,78,38,23,9,6,67,29,38
+2014-15,4,Valencia CF,Valencia,Valencia,77,38,22,11,5,70,32,38
+2014-15,5,Sevilla FC,Sevilla,Sevilla,76,38,23,7,8,71,45,26
+2014-15,6,Villarreal CF,Villarreal,Vila-real,60,38,16,12,10,48,37,11
+2014-15,7,Athletic Club,Athletic Bilbao,Bilbao,55,38,15,10,13,42,41,1
+2014-15,8,RC Celta,Celta Vigo,Vigo,51,38,13,12,13,47,44,3
+2014-15,9,Málaga CF,Málaga,Málaga,50,38,14,8,16,42,48,-6
+2014-15,10,RCD Espanyol,Espanyol,Barcelona,49,38,13,10,15,47,51,-4
+2014-15,11,Rayo Vallecano,Rayo Vallecano,Madrid,49,38,15,4,19,46,68,-22
+2014-15,12,Real Sociedad,Real Sociedad,San Sebastian,46,38,11,13,14,44,51,-7
+2014-15,13,Elche CF,Elche,Alicante,41,38,11,8,19,35,62,-27
+2014-15,14,Levante UD,Levante,Valencia,37,38,9,10,19,34,67,-33
+2014-15,15,Getafe CF,Getafe,Getafe,37,38,10,7,21,33,64,-31
+2014-15,16,RC Deportivo,Deportivo La Coruña,A Coruña,35,38,7,14,17,35,60,-25
+2014-15,17,Granada CF,Granada,Granada,35,38,7,14,17,29,64,-35
+2014-15,18,SD Eibar,Eibar,Eibar,35,38,9,8,21,34,55,-21
+2014-15,19,UD Almería,Almería,Almería,32,38,8,8,22,35,64,-29
+2014-15,20,Córdoba CF,Córdoba,Córdoba,20,38,3,11,24,22,68,-46
+2015-16,1,FC Barcelona,Barcelona,Barcelona,91,38,29,4,5,112,29,83
+2015-16,2,Real Madrid,Real Madrid,Madrid,90,38,28,6,4,110,34,76
+2015-16,3,Atlético de Madrid,Atlético Madrid,Madrid,88,38,28,4,6,63,18,45
+2015-16,4,Villarreal CF,Villarreal,Vila-real,64,38,18,10,10,44,35,9
+2015-16,5,Athletic Club,Athletic Bilbao,Bilbao,62,38,18,8,12,58,45,13
+2015-16,6,RC Celta,Celta Vigo,Vigo,60,38,17,9,12,51,59,-8
+2015-16,7,Sevilla FC,Sevilla,Sevilla,52,38,14,10,14,51,50,1
+2015-16,8,Málaga CF,Málaga,Málaga,48,38,12,12,14,38,35,3
+2015-16,9,Real Sociedad,Real Sociedad,San Sebastian,48,38,13,9,16,45,48,-3
+2015-16,10,Real Betis,Real Betis,Seville,45,38,11,12,15,34,52,-18
+2015-16,11,UD Las Palmas,Las Palmas,Las Palmas de Gran Canaria,44,38,12,8,18,45,53,-8
+2015-16,12,Valencia CF,Valencia,Valencia,44,38,11,11,16,46,48,-2
+2015-16,13,RCD Espanyol,Espanyol,Barcelona,43,38,12,7,19,40,74,-34
+2015-16,14,SD Eibar,Eibar,Eibar,43,38,11,10,17,49,61,-12
+2015-16,15,RC Deportivo,Deportivo La Coruña,A Coruña,42,38,8,18,12,45,61,-16
+2015-16,16,Granada CF,Granada,Granada,39,38,10,9,19,46,69,-23
+2015-16,17,R. Sporting,Sporting Gijón,Gijón,39,38,10,9,19,40,62,-22
+2015-16,18,Rayo Vallecano,Rayo Vallecano,Madrid,38,38,9,11,18,52,73,-21
+2015-16,19,Getafe CF,Getafe,Getafe,36,38,9,9,20,37,67,-30
+2015-16,20,Levante UD,Levante,Valencia,32,38,8,8,22,37,70,-33
+2016-17,1,Real Madrid,Real Madrid,Madrid,93,38,29,6,3,106,41,65
+2016-17,2,FC Barcelona,Barcelona,Barcelona,90,38,28,6,4,116,37,79
+2016-17,3,Atlético de Madrid,Atlético Madrid,Madrid,78,38,23,9,6,70,27,43
+2016-17,4,Sevilla FC,Sevilla,Sevilla,72,38,21,9,8,69,49,20
+2016-17,5,Villarreal CF,Villarreal,Vila-real,67,38,19,10,9,56,33,23
+2016-17,6,Real Sociedad,Real Sociedad,San Sebastian,64,38,19,7,12,59,53,6
+2016-17,7,Athletic Club,Athletic Bilbao,Bilbao,63,38,19,6,13,53,43,10
+2016-17,8,RCD Espanyol,Espanyol,Barcelona,56,38,15,11,12,49,50,-1
+2016-17,9,D. Alavés,Alavés,Vitoria-Gasteiz,55,38,14,13,11,41,43,-2
+2016-17,10,SD Eibar,Eibar,Eibar,54,38,15,9,14,56,51,5
+2016-17,11,Málaga CF,Málaga,Málaga,46,38,12,10,16,49,55,-6
+2016-17,12,Valencia CF,Valencia,Valencia,46,38,13,7,18,56,65,-9
+2016-17,13,RC Celta,Celta Vigo,Vigo,45,38,13,6,19,53,69,-16
+2016-17,14,UD Las Palmas,Las Palmas,Las Palmas de Gran Canaria,39,38,10,9,19,53,74,-21
+2016-17,15,Real Betis,Real Betis,Seville,39,38,10,9,19,41,64,-23
+2016-17,16,RC Deportivo,Deportivo La Coruña,A Coruña,36,38,8,12,18,43,61,-18
+2016-17,17,CD Leganés,Leganés,Leganés,35,38,8,11,19,36,55,-19
+2016-17,18,R. Sporting,Sporting Gijón,Gijón,31,38,7,10,21,42,72,-30
+2016-17,19,CA Osasuna,Osasuna,Pamplona,22,38,4,10,24,40,94,-54
+2016-17,20,Granada CF,Granada,Granada,20,38,4,8,26,30,82,-52
+2017-18,1,FC Barcelona,Barcelona,Barcelona,93,38,28,9,1,99,29,70
+2017-18,2,Atlético de Madrid,Atlético Madrid,Madrid,79,38,23,10,5,58,22,36
+2017-18,3,Real Madrid,Real Madrid,Madrid,76,38,22,10,6,94,44,50
+2017-18,4,Valencia CF,Valencia,Valencia,73,38,22,7,9,65,38,27
+2017-18,5,Villarreal CF,Villarreal,Vila-real,61,38,18,7,13,57,50,7
+2017-18,6,Real Betis,Real Betis,Seville,60,38,18,6,14,60,61,-1
+2017-18,7,Sevilla FC,Sevilla,Sevilla,58,38,17,7,14,49,58,-9
+2017-18,8,Getafe CF,Getafe,Getafe,55,38,15,10,13,42,33,9
+2017-18,9,SD Eibar,Eibar,Eibar,51,38,14,9,15,44,50,-6
+2017-18,10,Girona FC,Girona,Girona,51,38,14,9,15,50,59,-9
+2017-18,11,RCD Espanyol,Espanyol,Barcelona,49,38,12,13,13,36,42,-6
+2017-18,12,Real Sociedad,Real Sociedad,San Sebastian,49,38,14,7,17,66,59,7
+2017-18,13,RC Celta,Celta Vigo,Vigo,49,38,13,10,15,59,60,-1
+2017-18,14,D. Alavés,Alavés,Vitoria-Gasteiz,47,38,15,2,21,40,50,-10
+2017-18,15,Levante UD,Levante,Valencia,46,38,11,13,14,44,58,-14
+2017-18,16,Athletic Club,Athletic Bilbao,Bilbao,43,38,10,13,15,41,49,-8
+2017-18,17,CD Leganés,Leganés,Leganés,43,38,12,7,19,34,51,-17
+2017-18,18,RC Deportivo,Deportivo La Coruña,A Coruña,29,38,6,11,21,38,76,-38
+2017-18,19,UD Las Palmas,Las Palmas,Las Palmas de Gran Canaria,22,38,5,7,26,24,74,-50
+2017-18,20,Málaga CF,Málaga,Málaga,20,38,5,5,28,24,61,-37
+2018-19,1,FC Barcelona,Barcelona,Barcelona,87,38,26,9,3,90,36,54
+2018-19,2,Atlético de Madrid,Atlético Madrid,Madrid,76,38,22,10,6,55,29,26
+2018-19,3,Real Madrid,Real Madrid,Madrid,68,38,21,5,12,63,46,17
+2018-19,4,Valencia CF,Valencia,Valencia,61,38,15,16,7,51,35,16
+2018-19,5,Getafe CF,Getafe,Getafe,59,38,15,14,9,48,35,13
+2018-19,6,Sevilla FC,Sevilla,Sevilla,59,38,17,8,13,62,47,15
+2018-19,7,RCD Espanyol,Espanyol,Barcelona,53,38,14,11,13,48,50,-2
+2018-19,8,Athletic Club,Athletic Bilbao,Bilbao,53,38,13,14,11,41,45,-4
+2018-19,9,Real Betis,Real Betis,Seville,50,38,14,8,16,44,52,-8
+2018-19,10,Real Sociedad,Real Sociedad,San Sebastian,50,38,13,11,14,45,46,-1
+2018-19,11,D. Alavés,Alavés,Vitoria-Gasteiz,50,38,13,11,14,39,50,-11
+2018-19,12,SD Eibar,Eibar,Eibar,47,38,11,14,13,46,50,-4
+2018-19,13,CD Leganés,Leganés,Leganés,45,38,11,12,15,37,43,-6
+2018-19,14,Villarreal CF,Villarreal,Vila-real,44,38,10,14,14,49,52,-3
+2018-19,15,Levante UD,Levante,Valencia,44,38,11,11,16,59,66,-7
+2018-19,16,R. Valladolid CF,Valladolid,Valladolid,41,38,10,11,17,32,51,-19
+2018-19,17,RC Celta,Celta Vigo,Vigo,41,38,10,11,17,53,62,-9
+2018-19,18,Girona FC,Girona,Girona,37,38,9,10,19,37,53,-16
+2018-19,19,SD Huesca,Huesca,Huesca,33,38,7,12,19,43,65,-22
+2018-19,20,Rayo Vallecano,Rayo Vallecano,Madrid,32,38,8,8,22,41,70,-29
